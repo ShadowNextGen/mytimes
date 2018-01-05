@@ -1,0 +1,22 @@
+.header {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+.world {
+  display: inline-block;
+}
+
+.us {
+  display: inline-block;
+}
+
+.tech {
+  display: inline-block;
+}
+
+.science {
+  display: inline-block;
+}
