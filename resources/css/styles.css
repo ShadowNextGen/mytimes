@@ -5,18 +5,6 @@
   color: MediumAquamarine;
 }
 
-.world {
-  display: inline-block;
-}
-
-.us {
-  display: inline-block;
-}
-
-.tech {
-  display: inline-block;
-}
-
-.science {
+.btn-nav {
   display: inline-block;
 }
