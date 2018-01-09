@@ -8,4 +8,6 @@
   font-size: 14px;
   font-weight: bold;
   color: MediumAquamarine;
+  align-items: right;
+  justify-content: space-around;
 }
