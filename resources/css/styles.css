@@ -4,6 +4,7 @@ div {
 .btn-nav {
   display: inline-block;
   padding-right: 20px 10px;
+  justify-content: flex-end;
 }
 
 .flex-container {
