@@ -1,5 +1,5 @@
 div {
-  border: 1px solid black bottom;
+  border-bottom: 1px solid black;
 }
 
 .btn-nav {
@@ -7,11 +7,22 @@ div {
 }
 
 .flex-container {
-  display: inline-flex;
+  display: flex;
   flex-direction: row;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
   color: MediumAquamarine;
   justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  height: 80px;
+
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  padding-left: 30px;
 }
