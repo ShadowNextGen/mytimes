@@ -8,7 +8,7 @@ div {
 }
 
 .flex-container {
-  display:flex;
+  display: inline-flex;
   flex-direction: row;
   font-family: Verdana;
   font-size: 14px;
