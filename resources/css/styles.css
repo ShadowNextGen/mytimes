@@ -2,7 +2,8 @@
 }
 
 .flex-container {
-  display:inline-block;
+  display:flex;
+  flex-direction: row;
   font-family: Verdana;
   font-size: 14px;
   font-weight: bold;
