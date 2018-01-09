@@ -3,7 +3,7 @@ div {
 }
 
 .btn-nav {
-  
+  align-items: flex-end;
 }
 
 .flex-container {
