@@ -9,7 +9,6 @@ header {
   font-family: verdana, sans-serif;
   font-size: 14px;
   font-weight: bold;
-  border: 1px solid black;
 }
 
 .logo {
@@ -27,6 +26,7 @@ header {
 
 .logo span {
   color: mediumaquamarine;
+  border: 1px solid black;
 }
 
 header nav {
