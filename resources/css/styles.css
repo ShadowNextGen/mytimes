@@ -4,7 +4,7 @@ div {
 .btn-nav {
   display: inline-block;
   padding-right: 20px 10px;
-  justify-content: space-around;
+  justify-content: flex-end;
 }
 
 .flex-container {
@@ -14,8 +14,6 @@ div {
   font-size: 14px;
   font-weight: bold;
   color: MediumAquamarine;
-  justify-content: flex-end;
-  align-items: center;
   width: 100%;
   height: 80px;
   border-bottom: 1px solid black;
