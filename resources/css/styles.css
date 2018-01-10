@@ -16,6 +16,7 @@ header {
   align-items: center;
   flex-grow: 1;
   padding-left: 30px;
+  border: 1px solid black;
 }
 
 .logo img {
@@ -26,7 +27,6 @@ header {
 
 .logo span {
   color: mediumaquamarine;
-  border: 1px solid black;
 }
 
 header nav {
