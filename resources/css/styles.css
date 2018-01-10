@@ -27,4 +27,5 @@ div {
   align-items: center;
   flex-grow: 1;
   padding-left: 30px;
+  margin-right: 12px;
 }
